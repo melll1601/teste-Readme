@@ -27,9 +27,9 @@
 # 👾 Tecnologias Utilizadas
 
 <div style="display: flex; justify-content: space-between; gap: 10px;">
-  <img loading="lazy" src="https://img.shields.io/badge/%20GITHUB-2E7D32?style=for-the-badge&logo=" style="width: 131px;"/>
-  <img loading="lazy" src="https://img.shields.io/badge/%20HTML-2E7D32?style=for-the-badge&logo=" style="width: 104px;"/>
-  <img loading="lazy" src="https://img.shields.io/badge/%20CSS-2E7D32?style=for-the-badge&logo=" style="width: 85px;"/>
+  <img loading="lazy" src="https://img.shields.io/badge/%20GITHUB-43c45e?style=for-the-badge&logo=" style="width: 131px;"/>
+  <img loading="lazy" src="https://img.shields.io/badge/%20HTML-7cb588?style=for-the-badge&logo=" style="width: 104px;"/>
+  <img loading="lazy" src="https://img.shields.io/badge/%20CSS-0f954b?style=for-the-badge&logo=" style="width: 85px;"/>
 
 </div>
 
