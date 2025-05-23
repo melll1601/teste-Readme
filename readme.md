@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="/assets/MIDS77.svg" alt="LOGO DA MIDS " style="width: 100%; max-width: 100%; height: auto;" />
+<img src="/assets/MIDS-77.svg" alt="LOGO DA MIDS " style="width: 100%; max-width: 100%; height: 500;" />
 </p>
 
 <p align="center">
