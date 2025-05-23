@@ -28,7 +28,7 @@
 
 <div style="display: flex; justify-content: space-between; gap: 10px;">
   <img loading="lazy" src="https://img.shields.io/badge/%20GITHUB-A8D5BA?style=for-the-badge&logo=" style="width: 131px;"/>
-  <img loading="lazy" src="https://img.shields.io/badge/%20HTML-81C784?style=for-the-badge&logo=" style="width: 104px;"/>
+  <img loading="lazy" src="https://img.shields.io/badge/%20HTML-66BB88?style=for-the-badge&logo=" style="width: 104px;"/>
   <img loading="lazy" src="https://img.shields.io/badge/%20CSS-2E7D32?style=for-the-badge&logo=" style="width: 85px;"/>
 
 </div>
