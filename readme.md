@@ -10,19 +10,16 @@
 
 # ⚙️ Objetivo Geral
 
-- Desenvolver um projeto web de forma colaborativa entre squads ágeis
-
-- Aplicar na prática o uso do Git e GitHub para versionamento de código
-
-- Estimular a criação de branches organizadas por funcionalidades (features)
-
-- Utilizar mensagens de commit padronizadas (Conventional Commits)
-
-- Promover a integração contínua entre os times por meio de Pull Requests
-
-- Incentivar a prática de revisão de código (code review) entre colegas
-
-- Planejar e manter a fluidez da navegação e da estrutura do site entre as squads
+| Módulo                          | Descrição                                                                                                                                    |
+| ------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| 🧑‍🤝‍🧑 **Trabalho em Squads** | Desenvolvimento em grupos colaborativos (squads) com foco em agilidade, cada membro contribui para uma funcionalidade específica.            |
+| 🔀 **Versionamento com Git**    | Utilização de Git para controle de versão, criando branches para novas features e facilitando o trabalho em equipe.                          |
+| 📝 **Commits Padronizados**     | Aplicação de mensagens de commit no formato **Conventional Commits**, garantindo clareza e organização no histórico de mudanças.             |
+| 🧭 **Branches por Feature**     | Criação de branches específicas para cada funcionalidade, facilitando a colaboração e a integração de novas features.                        |
+| 🔄 **Pull Requests**            | Criação de Pull Requests para integração de features, permitindo revisões de código antes da fusão das alterações.                           |
+| 🕵️‍♂️ **Code Review**          | Revisão de código entre membros da equipe, garantindo a qualidade do código e melhorias contínuas.                                           |
+| 📑 **index.html**               | Arquivo principal que serve como base para o desenvolvimento da aplicação. Qualquer alteração na estrutura da página começa por aqui.        |
+| 📂 **Integração entre Squads**  | Planejamento e execução de funcionalidades de forma coordenada entre as squads, garantindo a integração fluida do código de todas as partes. |
 
 # 👾 Tecnologias Utilizadas
 
